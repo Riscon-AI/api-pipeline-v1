@@ -17,3 +17,7 @@
 - 다중 모델 라우팅(Claude, Gemini)  
 - 벡터DB RAG 연결  
 - 실패 로그 자동 Slack 알림
+
+## v2: 멀티-모델 라우터
+- 파일: `result_multi.csv`
+- 모델별 비용 집계 코드 추가
