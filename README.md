@@ -2,7 +2,7 @@
 
 ### 개요
 - **목적** : 아이디어를 자동으로 GPT 호출 → 결과·비용·속도를 기록  
-- **스택** : Google Colab, OpenAI GPT-4o-mini, Python, pandas  
+- **스택** : Google Colab, OpenAI GPT-4o, Python, pandas
 - **산출물** :  
   - `pipeline_v1.ipynb` : 실행 노트북  
   - `result.csv` : 원본 로그  
